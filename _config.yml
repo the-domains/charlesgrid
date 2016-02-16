@@ -1,14 +1,28 @@
-layout_spectrum: 0.5053706
-color:
-  saturation: 0.9887217
-  brandStrength: 0.8417029
-  lightness: 0.9307196
-  rhythmicContrast: 0.1412459
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-typography_spectrum: 0.537594
 name: CharlesGrid
+favicon: null
+layout_spectrum: 0.5053706
+typography_spectrum: 0.61081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3f164e'
+    - '#844d90'
+    - '#9f7aae'
+    - '#cc93b6'
+    - '#debccd'
+  brandStrength: 0.875
+  lightness: 0.875
+  saturation: 0.0625
+  rhythmicContrast: 0.1412459
+purpose: []
