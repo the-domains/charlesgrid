@@ -2,6 +2,7 @@ name: CharlesGrid
 favicon: null
 layout_spectrum: 0.5053706
 typography_spectrum: 0.61081
+title: My Grid
 cta:
   domain: null
   bucket: null
